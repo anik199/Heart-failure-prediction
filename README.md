@@ -1,4 +1,4 @@
-# Heart failure prediction: Beginner friendly 91% accuracy
+# HeartCheck: A Beginner-Friendly Predictive Model for Heart Failure with 91% Accuracy
 
 ## Introduction
 
